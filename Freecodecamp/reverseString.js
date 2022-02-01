@@ -8,7 +8,7 @@ function reverseString(str) {
 
 reverseString("hello");
 
-// ****** еще вариант
+//  ****** еще вариант
 
 // function reverseString(str) {
 //     let arr = [];
